@@ -1,0 +1,46 @@
+.loginBoxWrapper {
+  height: 100vh;
+  width:100%;
+  background: #17171a url(../../assets/banner-girl.png) no-repeat center top;
+
+  padding: 480px 0 0;
+  text-align: center;
+
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
+  align-items: center;
+}
+
+strong{
+  font-size: 20px;
+  line-height: 36px;
+  margin-bottom: 10px;
+}
+
+.signInWithGithub {
+  background: #ffcd1e;
+  margin-top: 12px;
+  padding:0 32px;
+  height:46px;
+  color: #09090a;
+  font-size:  12px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+  border-radius: 5px;
+
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+  svg{
+    margin-right: 16px;
+  }
+  
+  &:hover{
+    filter:brightness(0.9)
+  }
+}
