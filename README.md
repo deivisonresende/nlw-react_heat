@@ -1,10 +1,11 @@
 <h1 align="center">NLW Heat</h1>
 
+<h2 align="center"> A nlw-react_heat trata-se da interface web servida pela api [nlw-node_heat](https://github.com/deivisonresende/nlw-node_heat)</h2>
+
 <div align="center">
-    <img src="/github/interface.png"> 
+    <img src="./.github/interface.png"> 
 </div>
 
-A nlw-react_heat trata-se da interface web servida pela api [nlw-node_heat](https://github.com/deivisonresende/nlw-node_heat).
 
 ## Tecnologias
 
