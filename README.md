@@ -1,6 +1,6 @@
 <h1 align="center">NLW Heat</h1>
 
-<h2 align="center"> A nlw-react_heat trata-se da interface web servida pela api [nlw-node_heat](https://github.com/deivisonresende/nlw-node_heat)</h2>
+<h2 align="center"> A nlw-react_heat trata-se da interface web servida pela api <a href="https://github.com/deivisonresende/nlw-node_heat">nlw-node_heat .</a></h2>
 
 <div align="center">
     <img src="./.github/interface.png"> 
@@ -9,7 +9,7 @@
 
 ## Tecnologias
 
-Tecnologias utilizadas neste projeto:
+Tecnologias utilizadas neste projeto:s
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
